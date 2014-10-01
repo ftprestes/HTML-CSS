@@ -1,0 +1,21 @@
+div.wrap{
+	width: 80%;
+	margin: auto;
+}
+div.content, aside{
+	height: 600px;
+}
+div.content{
+	width: 70%;
+	background: red;
+	float: left;
+}
+aside{
+	background: brown;
+	float:left;
+	width: 30%;
+}
+aside ul{
+	list-style: none;
+	padding-left: 0px;
+}
